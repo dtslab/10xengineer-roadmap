@@ -1,0 +1,11 @@
+### Roles intertwined
+1. Product Manager
+2. UI/UX Designer
+3. Frontend Developer
+4. Backend Developer
+5. Mobile Developer 
+6. Data Engineer
+7. QA Engineer
+8. SRE Engineer
+9. Security Engineer
+10. Cloud Engineer
